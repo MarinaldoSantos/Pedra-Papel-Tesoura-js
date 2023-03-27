@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(63, 61, 68);
+}
+
+.choiceBtn {
+    line-height: 30px;
+    width: 150px;
+
+}
+
+
+#gameDiv {
+    font-family: 'brush script MT', cursive;
+    border: 3px solid;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: rgb(255, 25, 25);
+    text-align: center;
+}
+
+#playerText {
+    color: blue;
+
+}
+
+#computerText {
+    color: rgb(0, 255, 98);
+}
